@@ -1,4 +1,4 @@
-# lda
+# LDA
 A class that performs multiclass classification using linear discriminant analysis which utilizes self made softmax activation function, and maximum liklelihood estiamtion function.
 ## Techniques used
 - Maximum Likelihood Estimation
